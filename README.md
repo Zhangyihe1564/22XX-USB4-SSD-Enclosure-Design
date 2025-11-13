@@ -104,7 +104,7 @@ Caution: ASM2464PD finished product will inevitably overheat and disconnect with
 
 The cooling fan in the demo is obtained by cutting the cooling module of Lenovo Legion Pro2.
 
-You can connect it with flying wires, apply Thermal Goop and press it directly on the 2464 main controller.
+You can connect it with flying wires, apply Thermal Goop and press it directly on the ASM2464PD controller.
 
 
 
